@@ -1,0 +1,1 @@
+# Carre-de-taille-max-qui-a-de-meme-valeur-dans-un-tableau-N-M
